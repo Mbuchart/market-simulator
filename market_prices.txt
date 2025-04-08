@@ -1,0 +1,18 @@
+---- Enregistrement des Prix ----
+HSBC : 609.55$
+Bitcoin : 47740.53$
+Ethereum : 2522.33$
+Apple : 259.14$
+
+---- Enregistrement des Prix ----
+HSBC : 551.02$
+Bitcoin : 49435.97$
+Ethereum : 2257.47$
+Apple : 286.22$
+
+---- Enregistrement des Prix ----
+HSBC : 595.66$
+Bitcoin : 44411.44$
+Ethereum : 1926.01$
+Apple : 308.84$
+
