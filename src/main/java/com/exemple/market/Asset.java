@@ -4,10 +4,10 @@ import java.util.Random;
 
 public class Asset {
     private String name;
-    private double price;
+    private float price;
     private static final Random random = new Random();
 
-    public Asset(String name, double initialPrice) {
+    public Asset(String name, float initialPrice) {
         this.name = name;
         this.price = initialPrice;
     }
@@ -16,14 +16,14 @@ public class Asset {
         return name;
     }
 
-    public double getPrice() {
+    public float getPrice() {
         return price;
     }
 
     public void updatePrice() {
-        //Simulate a random price variation (between -10% and +10%)
+        //Simulate a random price variation (between -5% and +5%)
         double randomVariation = 1 + (random.nextDouble() * 0.1 - 0.05);
-        price *= randomVariation;
+        price *= (float) randomVariation;
     }
 
     @Override

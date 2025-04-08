@@ -1,3 +1,5 @@
 com/exemple/market/MarketSimulator.class
+com/exemple/market/BigQueryConfig.class
 com/exemple/market/Main.class
 com/exemple/market/Asset.class
+com/exemple/market/MarketData.class
